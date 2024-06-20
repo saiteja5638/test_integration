@@ -6,7 +6,7 @@ function (Controller) {
 
     return Controller.extend("testintegration.controller.View1", {
         onInit: function () {
-
+dfdvbv
         }
     });
 });
